@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Solution94 {
     //Using Stack
     /*public List<Integer> inorderTraversal(TreeNode root) {
         Stack<TreeNode> stacki = new Stack<>();

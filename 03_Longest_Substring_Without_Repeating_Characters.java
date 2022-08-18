@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
+class Solution3 {
+    public static int lengthOfLongestSubstring(String s) {
         Set<Character> map = new HashSet<>();
         int i = 0;
         int j = 0;
@@ -19,7 +19,7 @@ class Solution {
         return maxlen;
     }
     public static void main(String[] args) {
-        Solution obj = new Solution();
+        Solution3 obj = new Solution3();
         String x = "ab";
         int l = obj.lengthOfLongestSubstring(x);
         System.out.println(l);

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class Solution53 {
     public int maxSubArray(int[] nums) {
     int maxsum =0;
     int maxcurrsum = 0;

@@ -1,4 +1,4 @@
-class Solution {
+class Solution24 {
     public ListNode swapPairs(ListNode head) {
         ListNode dummy = new ListNode(0);
         dummy.next = head;

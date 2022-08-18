@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-class Solution {
+class Solution93 {
     public List<String> restoreIpAddresses(String s) {
         List<String> allIPaddresses = new ArrayList<>();
         int[] path = new int[4];

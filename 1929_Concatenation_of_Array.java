@@ -38,7 +38,7 @@ n == nums.length
 1 <= n <= 1000
 1 <= nums[i] <= 1000*/
 
-class Solution {
+class Solution1929 {
     public int[] getConcatenation(int[] nums) {
         int[] ans = new int[2*nums.length];
         for(int i = 0; i<nums.length;i++){

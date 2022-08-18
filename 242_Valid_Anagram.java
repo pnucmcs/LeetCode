@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class Solution {
+class Solution242 {
     public boolean isAnagram(String s, String t) {
         boolean x = sortString(s).equals(sortString(t));
         return x;

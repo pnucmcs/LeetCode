@@ -1,4 +1,4 @@
-class Solution {
+class Solution14 {
     static int minimumlength(String[] args){
         int minl=args[0].length();
         for(int i=0; i<args.length;i++){

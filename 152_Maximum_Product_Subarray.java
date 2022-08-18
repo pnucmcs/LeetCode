@@ -1,4 +1,4 @@
-class Solution {
+class Solution152 {
     public int maxProduct(int[] nums) {
         int res = maxofanArray(nums);
         int curMin = 1;

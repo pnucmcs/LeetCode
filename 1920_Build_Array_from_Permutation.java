@@ -40,7 +40,7 @@ The elements in nums are distinct.
 
 
 Follow-up: Can you solve it without using an extra space (i.e., O(1) memory)?*/
-class Solution {
+class Solution1920 {
     public int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
         for(int i = 0; i<nums.length;i++){

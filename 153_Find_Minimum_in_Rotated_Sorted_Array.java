@@ -1,4 +1,4 @@
-class Solution {
+class Solution153 {
     public int findMin(int[] nums) {
       // If the list has just one element then return that element.
       if (nums.length == 1) {

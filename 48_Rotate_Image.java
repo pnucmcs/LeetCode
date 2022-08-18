@@ -1,4 +1,4 @@
-class Solution {
+class Solution48 {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
         int c[][] = makediagonalone(n);

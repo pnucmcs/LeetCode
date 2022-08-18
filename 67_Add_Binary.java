@@ -1,4 +1,4 @@
-class Solution {
+class Solution67 {
     public String addBinary(String a, String b) {
         String sum = sum(a, b);
         return sum;

@@ -43,7 +43,7 @@ m == accounts.length
 n == accounts[i].length
 1 <= m, n <= 50
 1 <= accounts[i][j] <= 100*/
-class Solution {
+class Solution1672 {
     public int maximumWealth(int[][] accounts) {
         int wealthsum[] = new int[accounts.length]; //number of rows
         for(int i = 0; i<accounts.length;i++){

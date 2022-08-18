@@ -1,6 +1,6 @@
 
 
-class Solution {
+class Solution98 {
     //Using upper and lower pointers
     /*public boolean isValidBST(TreeNode root) {
         return subBST(root,null,null);

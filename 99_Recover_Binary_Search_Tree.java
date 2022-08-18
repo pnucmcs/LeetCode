@@ -1,4 +1,4 @@
-class Solution {
+class Solution99 {
     private TreeNode prev;
     private TreeNode first;
     private TreeNode last;

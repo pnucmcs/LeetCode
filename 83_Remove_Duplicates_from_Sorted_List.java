@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution83 {
     public static ListNode deleteDuplicates(ListNode head) {
         ListNode curr = head;
         while(curr != null) {

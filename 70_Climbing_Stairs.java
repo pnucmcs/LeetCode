@@ -1,4 +1,4 @@
-class Solution {
+class Solution70 {
     public int climbStairs(int n) {
         int s1 =  fib(n);
         int s2 = fib(n-1);

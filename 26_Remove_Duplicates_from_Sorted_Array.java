@@ -1,4 +1,4 @@
-class Solution {
+class Solution26 {
     /*public int removeDuplicates(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<Integer,Integer>();
         TreeSet ts = new TreeSet();

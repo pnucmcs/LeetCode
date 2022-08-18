@@ -1,4 +1,4 @@
-class Solution {
+class Solution12 {
     public static String intToRoman(int num) {
         int n = (int) (Math.log10(num) + 1);
         int incr = 1;

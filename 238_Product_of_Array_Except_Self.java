@@ -1,4 +1,4 @@
-class Solution {
+class Solution238 {
     public static int[] productExceptSelf(int[] nums) {
         int[] output = new int[nums.length];
 

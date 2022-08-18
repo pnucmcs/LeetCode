@@ -19,7 +19,7 @@ class Solution {
 }
 
  */
-class Solution {
+class Solution11 {
     public static int maxArea(int[] height) {
         int res = 0;
         int l=0,r=height.length-1;
