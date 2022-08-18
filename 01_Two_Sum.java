@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.HashMap;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -11,7 +10,6 @@ class Solution {
                 map.put(nums[l], l);
             }
         }
-        
         return new int[] {};
     }
 }
