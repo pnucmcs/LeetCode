@@ -1,4 +1,4 @@
-class Solution15 {
+class Solution19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if(head.next == null)
             return null;
